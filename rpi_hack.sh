@@ -3,7 +3,7 @@
 vcgencmd codec_enabled MPG2
 vcgencmd codec_enabled WVC1
 
-echo "Whould you like to hach your RPI (y/n):"
+echo "Whould you like to hack your RPI (y/n):"
 read ans
 
 if [ "$ans" == "y" ]; then
